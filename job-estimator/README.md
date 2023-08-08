@@ -4,7 +4,8 @@ The estimate includes these elements:
 
 * The application must be menu-driven allowing the user to choose from:
 
-/images/image1.png
+![image1](https://github.com/Abdul-Samed688/Job-Estimator_1/assets/106960633/7e2a459a-f75c-4843-ba69-845341a2cbee)
+
 
 on selecting option 2, the application must:
 
