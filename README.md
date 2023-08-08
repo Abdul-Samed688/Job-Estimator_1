@@ -22,3 +22,8 @@
 ![image2](https://github.com/Abdul-Samed688/Job-Estimator_1/assets/106960633/889da0a4-1a9d-4d91-b380-bd189035032c)
 
 
+## Flow Chart of the Program
+
+![Job Estimator - final draft - Page 1](https://github.com/Abdul-Samed688/Job-Estimator_1/assets/106960633/b0c61475-48c0-4812-864d-26ae67f00464)
+
+
