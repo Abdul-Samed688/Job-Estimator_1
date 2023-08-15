@@ -158,7 +158,7 @@ double UnderCoatpaint(double PaintPrice) // start of undercoat paint function.
 
     if (Response == "Yes" || Response == "yes" || Response == "YES" || Response == "y" || Response == "Y")
     {
-        cout << " Please enter a whole number to represent the number of tins of paint needed. " << endl;
+        cout << " Please enter the number of tins you need. " << endl;
         cin >> Num_of_Tins;
         UnderCoatPaintSum = UnderCoatPaint + Num_of_Tins; 
         GrandTotal = UnderCoatPaintSum + PaintPrice; 
